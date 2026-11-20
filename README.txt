@@ -1,0 +1,1 @@
+Ouvrir via un serveur web HTTPS. Données enregistrées localement. Utiliser Exporter pour sauvegarder et Restaurer pour réimporter.
